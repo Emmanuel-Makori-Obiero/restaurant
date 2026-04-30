@@ -1,4 +1,4 @@
 @import "tailwindcss";
 .bgi {
-  background-image: url("/tailwind-starter-v4/yummy.png");
+  background-image: url("/public/Images/yummy.png");
 }
